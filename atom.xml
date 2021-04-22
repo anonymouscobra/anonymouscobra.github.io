@@ -6,7 +6,7 @@
   <link href="http://anonymouscobra.cn/atom.xml" rel="self"/>
   
   <link href="http://anonymouscobra.cn/"/>
-  <updated>2021-04-22T10:02:16.155Z</updated>
+  <updated>2021-04-22T13:41:49.266Z</updated>
   <id>http://anonymouscobra.cn/</id>
   
   <author>
@@ -21,14 +21,16 @@
     <link href="http://anonymouscobra.cn/2021/04/22/%E6%88%91%E6%98%AF%E8%B0%81%EF%BC%9F/"/>
     <id>http://anonymouscobra.cn/2021/04/22/%E6%88%91%E6%98%AF%E8%B0%81%EF%BC%9F/</id>
     <published>2021-04-22T06:53:13.000Z</published>
-    <updated>2021-04-22T10:02:16.155Z</updated>
+    <updated>2021-04-22T13:41:49.266Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="WHO-AM-I"><a href="#WHO-AM-I" class="headerlink" title="WHO AM I  ???"></a>WHO AM I  ???</h1><p>A really good question……</p><span id="more"></span><hr><p>YOU TELL ME</p><hr><p><img src="https://i.loli.net/2021/04/22/8zaW9VmtAb3kXOU.jpg" alt="1111.jpeg"></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="WHO-AM-I"><a href="#WHO-AM-I" class="headerlink" title="WHO AM I  ???"></a>WHO AM I  ???</h1><p>A really good question……</p><span id="more"></span><hr><p>YOU TELL ME</p><hr><p><img src="https://i.loli.net/2021/04/22/8zaW9VmtAb3kXOU.jpg"></p>]]></content>
     
     
     <summary type="html">&lt;h1 id=&quot;WHO-AM-I&quot;&gt;&lt;a href=&quot;#WHO-AM-I&quot; class=&quot;headerlink&quot; title=&quot;WHO AM I  ???&quot;&gt;&lt;/a&gt;WHO AM I  ???&lt;/h1&gt;&lt;p&gt;A really good question……&lt;/p&gt;</summary>
     
     
+    
+    <category term="随笔" scheme="http://anonymouscobra.cn/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
     <category term="散文" scheme="http://anonymouscobra.cn/tags/%E6%95%A3%E6%96%87/"/>
@@ -40,7 +42,7 @@
     <link href="http://anonymouscobra.cn/2021/04/20/Hello%20world/"/>
     <id>http://anonymouscobra.cn/2021/04/20/Hello%20world/</id>
     <published>2021-04-20T12:46:32.000Z</published>
-    <updated>2021-04-22T10:01:14.863Z</updated>
+    <updated>2021-04-22T13:41:52.431Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Welcome"><a href="#Welcome" class="headerlink" title="Welcome"></a>Welcome</h2><p>欢迎来到zzc的博客。</p><span id="more"></span><hr><p>We are anonymous</p><p>We do not forgive</p><p>We do not forget</p><p>Expect us…</p><hr><p>Z. C. Zhou </p><p>love &amp; peace</p>]]></content>
     
@@ -48,6 +50,8 @@
     <summary type="html">&lt;h2 id=&quot;Welcome&quot;&gt;&lt;a href=&quot;#Welcome&quot; class=&quot;headerlink&quot; title=&quot;Welcome&quot;&gt;&lt;/a&gt;Welcome&lt;/h2&gt;&lt;p&gt;欢迎来到zzc的博客。&lt;/p&gt;</summary>
     
     
+    
+    <category term="随笔" scheme="http://anonymouscobra.cn/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
   </entry>
